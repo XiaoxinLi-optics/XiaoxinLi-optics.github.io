@@ -1,5 +1,82 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV(简历)",
+    "section": "",
+    "text": "You can download my CV here:"
+  },
+  {
+    "objectID": "cv.html#education教育背景",
+    "href": "cv.html#education教育背景",
+    "title": "CV(简历)",
+    "section": "Education（教育背景）",
+    "text": "Education（教育背景）\n\n2021-2026 博士，哈尔滨工业大学 物理学院 微纳光学\n2019-2021 硕士，哈尔滨工业大学 物理学院 光学\n2015-2019 本科，哈尔滨工业大学 理学院 光电信息科学与工程"
+  },
+  {
+    "objectID": "cv.html#honors-and-awards奖项荣誉",
+    "href": "cv.html#honors-and-awards奖项荣誉",
+    "title": "CV(简历)",
+    "section": "Honors and Awards（奖项荣誉）",
+    "text": "Honors and Awards（奖项荣誉）\n\n第十届中国国际大学生创新大赛黑龙江赛区金奖（2024）\n哈尔滨工业大学首届师生创业大赛三等奖（2024）\n第九届全国大学生“互联网+”创新创业大赛黑龙江赛区银奖（2023）\n2025全国光学与光学工程博士生学术联赛东北赛区三等奖（2025）\n2025届哈尔滨工业大学物理学院“优秀毕业生”（博士）（2025）"
+  },
+  {
+    "objectID": "cv.html#academic-services",
+    "href": "cv.html#academic-services",
+    "title": "CV(简历)",
+    "section": "Academic Services",
+    "text": "Academic Services\n\nReviewer for journals"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Xiaoxin Li (李效欣)",
+    "section": "",
+    "text": "李效欣，物理学博士，目前于杭州市北京航天航空大学国际创新研究院绿色光子国际研究中心从事博士后研究。本、硕和博士均毕业于哈尔滨工业大学物理学院，博士生导师为丁卫强教授。毕业后加入北航国新院从事博士后，合作导师为王浩教授。 研究领域聚焦于纳米光子学，主要包括基于超表面的多维度并行光计算、超表面集成的高维光场感知芯片与超表面多维度光场调控等，近年来发表论文20余篇，包括Nature Communications、ACS Photonics、Advanced Optical Materials、Advanced photonics Nexus等，申请及授权相关发明专利8项，多次参与中国国际大学生创新大赛并获得金奖等。\n\n\n\n\n超构表面（Metasurface optics）\n自由空间光计算（Free Space Optical Computing）\n多维度计算成像（Multidimensional Computational Imaging）\n结构光场调控（Structured Light Field Modulation）\n集成超构芯片/传感器（Integrated Meta-optics Chip/Sensor）\n\n\n\n\n\nGoogle Scholar\nResearchGate"
+  },
+  {
+    "objectID": "index.html#about-me个人简介",
+    "href": "index.html#about-me个人简介",
+    "title": "Xiaoxin Li (李效欣)",
+    "section": "",
+    "text": "李效欣，物理学博士，目前于杭州市北京航天航空大学国际创新研究院绿色光子国际研究中心从事博士后研究。本、硕和博士均毕业于哈尔滨工业大学物理学院，博士生导师为丁卫强教授。毕业后加入北航国新院从事博士后，合作导师为王浩教授。 研究领域聚焦于纳米光子学，主要包括基于超表面的多维度并行光计算、超表面集成的高维光场感知芯片与超表面多维度光场调控等，近年来发表论文20余篇，包括Nature Communications、ACS Photonics、Advanced Optical Materials、Advanced photonics Nexus等，申请及授权相关发明专利8项，多次参与中国国际大学生创新大赛并获得金奖等。"
+  },
+  {
+    "objectID": "index.html#research-interests研究领域",
+    "href": "index.html#research-interests研究领域",
+    "title": "Xiaoxin Li (李效欣)",
+    "section": "",
+    "text": "超构表面（Metasurface optics）\n自由空间光计算（Free Space Optical Computing）\n多维度计算成像（Multidimensional Computational Imaging）\n结构光场调控（Structured Light Field Modulation）\n集成超构芯片/传感器（Integrated Meta-optics Chip/Sensor）"
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Xiaoxin Li (李效欣)",
+    "section": "",
+    "text": "Google Scholar\nResearchGate"
+  },
+  {
+    "objectID": "publications/paper-01.html",
+    "href": "publications/paper-01.html",
+    "title": "Sample Paper Title",
+    "section": "",
+    "text": "Authors: Your Name, Coauthor A, Coauthor B\nJournal: Journal Name, 2026\nDOI: 10.xxxx/xxxxx\n\n\nThis paper presents a sample entry used to demonstrate how publication pages are organized on the website.\n\n\n\n\nPDF"
+  },
+  {
+    "objectID": "publications/paper-01.html#summary",
+    "href": "publications/paper-01.html#summary",
+    "title": "Sample Paper Title",
+    "section": "",
+    "text": "This paper presents a sample entry used to demonstrate how publication pages are organized on the website."
+  },
+  {
+    "objectID": "publications/paper-01.html#links",
+    "href": "publications/paper-01.html#links",
+    "title": "Sample Paper Title",
+    "section": "",
+    "text": "PDF"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -35,95 +112,11 @@
     "text": "Integrating metasurface encoders with image sensors for multidimensional optical field sensing and imaging, including depth, 3D, spectral, and polarization information.\n该方向面向新型智能成像芯片与多维光场感知需求，研究将超表面编码器直接集成到图像传感器前端，实现深度、三维形貌、光谱、偏振等多维信息的压缩编码探测与计算成像重建。通过在像面或近像面位置引入具有特定调制特性的超表面结构，可在硬件层面对入射光场进行高维编码，再结合重建算法或神经网络实现多维信息的单次快照恢复。该方向致力于突破传统成像系统在体积、维度、速度和成本方面的限制，为高集成度、轻量化、智能化的多维成像与传感系统提供新路径。"
   },
   {
-    "objectID": "publications/paper-01.html",
-    "href": "publications/paper-01.html",
-    "title": "Sample Paper Title",
-    "section": "",
-    "text": "Authors: Your Name, Coauthor A, Coauthor B\nJournal: Journal Name, 2026\nDOI: 10.xxxx/xxxxx\n\n\nThis paper presents a sample entry used to demonstrate how publication pages are organized on the website.\n\n\n\n\nPDF"
-  },
-  {
-    "objectID": "publications/paper-01.html#summary",
-    "href": "publications/paper-01.html#summary",
-    "title": "Sample Paper Title",
-    "section": "",
-    "text": "This paper presents a sample entry used to demonstrate how publication pages are organized on the website."
-  },
-  {
-    "objectID": "publications/paper-01.html#links",
-    "href": "publications/paper-01.html#links",
-    "title": "Sample Paper Title",
-    "section": "",
-    "text": "PDF"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "李效欣，物理学博士，目前于杭州北京航天航空大学国际创新研究院绿色光子国际研究中心从事博士后研究。本、硕和博士均毕业于哈尔滨工业大学物理学院，博士生导师为丁卫强教授。毕业后加入北航国新院从事博士后，合作导师为王浩教授。 研究领域聚焦于纳米光子学，主要包括基于超表面的多维度并行光计算、超表面集成的高维光场感知芯片与超表面多维度光场调控等，近年来发表论文20余篇，包括Nature Communications、ACS Photonics、Advanced Optical Materials、Advanced photonics Nexus等，申请及授权相关发明专利8项，多次参与中国国际大学生创新大赛并获得金奖等。\n\n\n\n\n2021-2026 博士，哈尔滨工业大学 物理学院 微纳光学\n2019-2021 硕士，哈尔滨工业大学 物理学院 光学\n2015-2019 本科，哈尔滨工业大学 理学院 光电信息科学与工程\n\n\n\n\n\n超构表面（Metasurface optics）\n自由空间光计算（Free Space Optical Computing）\n多维度计算成像（Multi-Demonsion Computational Imaging）\n结构光场调控（Structured Light Field Modulation）\n集成超构芯片/传感器（Integrated Meta-optics Chip/Sensor）\n\n\n\n\n\nGoogle Scholar\nResearcher\nDownload CV"
-  },
-  {
-    "objectID": "index.html#about-me个人简介",
-    "href": "index.html#about-me个人简介",
-    "title": "Home",
-    "section": "",
-    "text": "李效欣，物理学博士，目前于杭州北京航天航空大学国际创新研究院绿色光子国际研究中心从事博士后研究。本、硕和博士均毕业于哈尔滨工业大学物理学院，博士生导师为丁卫强教授。毕业后加入北航国新院从事博士后，合作导师为王浩教授。 研究领域聚焦于纳米光子学，主要包括基于超表面的多维度并行光计算、超表面集成的高维光场感知芯片与超表面多维度光场调控等，近年来发表论文20余篇，包括Nature Communications、ACS Photonics、Advanced Optical Materials、Advanced photonics Nexus等，申请及授权相关发明专利8项，多次参与中国国际大学生创新大赛并获得金奖等。"
-  },
-  {
-    "objectID": "index.html#education教育经历",
-    "href": "index.html#education教育经历",
-    "title": "Home",
-    "section": "",
-    "text": "2021-2026 博士，哈尔滨工业大学 物理学院 微纳光学\n2019-2021 硕士，哈尔滨工业大学 物理学院 光学\n2015-2019 本科，哈尔滨工业大学 理学院 光电信息科学与工程"
-  },
-  {
-    "objectID": "index.html#research-interests研究领域",
-    "href": "index.html#research-interests研究领域",
-    "title": "Home",
-    "section": "",
-    "text": "超构表面（Metasurface optics）\n自由空间光计算（Free Space Optical Computing）\n多维度计算成像（Multi-Demonsion Computational Imaging）\n结构光场调控（Structured Light Field Modulation）\n集成超构芯片/传感器（Integrated Meta-optics Chip/Sensor）"
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Home",
-    "section": "",
-    "text": "Google Scholar\nResearcher\nDownload CV"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact(联系方式)",
     "section": "",
     "text": "Email: 18846828231@163.com/21B911003@stu.hit.edu.cn\nWechat:\nGoogle Scholar: Profile\nResearcher: Profile"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV(简历)",
-    "section": "",
-    "text": "You can download my CV here:"
-  },
-  {
-    "objectID": "cv.html#education教育背景",
-    "href": "cv.html#education教育背景",
-    "title": "CV(简历)",
-    "section": "Education（教育背景）",
-    "text": "Education（教育背景）\n\n2021-2026 博士，哈尔滨工业大学 物理学院 微纳光学\n2019-2021 硕士，哈尔滨工业大学 物理学院 光学\n2015-2019 本科，哈尔滨工业大学 理学院 光电信息科学与工程"
-  },
-  {
-    "objectID": "cv.html#honors-and-awards奖项荣誉",
-    "href": "cv.html#honors-and-awards奖项荣誉",
-    "title": "CV(简历)",
-    "section": "Honors and Awards（奖项荣誉）",
-    "text": "Honors and Awards（奖项荣誉）\n\n第十届中国国际大学生创新大赛黑龙江赛区金奖（2024）\n哈尔滨工业大学首届师生创业大赛三等奖（2024）\n第九届全国大学生“互联网+”创新创业大赛黑龙江赛区银奖（2023）\n2025全国光学与光学工程博士生学术联赛东北赛区三等奖（2025）\n2025届哈尔滨工业大学物理学院“优秀毕业生”（博士）（2025）"
-  },
-  {
-    "objectID": "cv.html#academic-services",
-    "href": "cv.html#academic-services",
-    "title": "CV(简历)",
-    "section": "Academic Services",
-    "text": "Academic Services\n\nReviewer for journals"
   },
   {
     "objectID": "projects/project-01.html",

@@ -3,28 +3,46 @@ project:
   output-dir: docs
 
 website:
-  title: "Li Xiaoxin"
+  title: "Xiaoxin Li"
+
+  description: "Academic homepage of Xiaoxin Li (李效欣), focusing on nanophotonics, metasurfaces, optical computing, multidimensional imaging, and computational photonics."
+
+  site-url: "https://xiaoxinli-optics.github.io/"
+
+  repo-url: "https://github.com/XiaoxinLi-optics/XiaoxinLi-optics.github.io"
+
   favicon: assets/images/favicon.png
+
+  open-graph: true
+
   navbar:
     search: true
+
     left:
       - text: "Home"
         href: index.qmd
+
       - text: "Research"
         href: research.qmd
+
       - text: "Publications"
         href: publications.qmd
+
       - text: "CV"
         href: cv.qmd
+
       - text: "Contact"
         href: contact.qmd
+
     right:
       - text: "Google Scholar"
         href: https://scholar.google.com.hk/citations?user=_G05MfUAAAAJ&hl=zh-CN
+
       - text: "GitHub"
-        href: https://github.com/Lixiaoxin-HIT
+        href: https://github.com/XiaoxinLi-optics
+
   page-footer:
-    left: "© 2026 Li Xiaoxin"
+    left: "© 2026 Xiaoxin Li"
     right: "Beihang University"
 
 format:
