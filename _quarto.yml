@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - googleb4b033e40ed050ce.html
 
 website:
   title: "Xiaoxin Li"
