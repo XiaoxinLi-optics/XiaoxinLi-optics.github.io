@@ -1,27 +1,33 @@
 ---
-pagetitle: "Xiaoxin Li (李效欣) | Nanophotonics, Metasurfaces & Optical Computing"
-description-meta: "Academic homepage of Xiaoxin Li (李效欣), a researcher in nanophotonics, metasurfaces, optical computing, multidimensional imaging, and computational photonics."
+pagetitle: "Xiaoxin Li | Nanophotonics, Metasurfaces & Optical Computing"
+description-meta: "Academic homepage of Xiaoxin Li, a postdoctoral researcher working on nanophotonics, metasurfaces, optical computing, optical neural networks, multidimensional computational imaging, and integrated photonic sensing."
 ---
 
-# Xiaoxin Li (李效欣)
+# Xiaoxin Li
 
-![](assets/images/Lixiaoxin1.jpg){width=220 fig-align="center"}
+**Postdoctoral Researcher | Nanophotonics · Metasurfaces · Optical Computing · Multidimensional Imaging**
 
-## About Me（个人简介）
+Sustainable Photonics Research Center (SPRC), Hangzhou International Innovation Institute of Beihang University, China
 
-李效欣，物理学博士，目前于杭州市北京航天航空大学国际创新研究院绿色光子国际研究中心从事博士后研究。本、硕和博士均毕业于哈尔滨工业大学物理学院，博士生导师为丁卫强教授。毕业后加入北航国新院从事博士后，合作导师为王浩教授。
-研究领域聚焦于纳米光子学，主要包括基于超表面的多维度并行光计算、超表面集成的高维光场感知芯片与超表面多维度光场调控等，近年来发表论文20余篇，包括Nature Communications、ACS Photonics、Advanced Optical Materials、Advanced photonics Nexus等，申请及授权相关发明专利8项，多次参与中国国际大学生创新大赛并获得金奖等。
+![Portrait of Xiaoxin Li](assets/images/Lixiaoxin1.jpg){width=220 fig-align="center"}
 
-## Research Interests（研究领域）
+## About Me
 
-- 超构表面（Metasurface optics）
-- 自由空间光计算（Free Space Optical Computing）
-- 多维度计算成像（Multidimensional Computational Imaging）
-- 结构光场调控（Structured Light Field Modulation）
-- 集成超构芯片/传感器（Integrated Meta-optics Chip/Sensor）
+Xiaoxin Li is a postdoctoral researcher at the Sustainable Photonics Research Center (SPRC), Hangzhou International Innovation Institute of Beihang University, China. He received his B.S., M.S., and Ph.D. degrees from Harbin Institute of Technology.
 
+His research focuses on **nanophotonics, dielectric metasurfaces, optical computing, optical neural networks, multidimensional computational imaging, and integrated photonic sensing**. His work explores the integration of nanophotonic devices with computational algorithms for compact, high-dimensional, and intelligent optical sensing and information processing. His research has been published in journals including *Nature Communications*, *ACS Photonics*, *Advanced Optical Materials*, and *Advanced Photonics Nexus*.
 
-## Quick Links
+## Research Interests
 
-- [Google Scholar](https://scholar.google.com.hk/citations?user=_G05MfUAAAAJ&hl=zh-CN)
-- [ResearchGate](https://www.researchgate.net/profile/Xiaoxin-Li-6?ev=hdr_xprf&_sg=JUNKMKhjpxFbX-5xgV99mvJlWoU0jdbP2OFqy7NxhnftYDElqhuvNqSjdpWVzAz6PxHIX9NVk4VnxhVCUPlPHMwQ&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
+- **Metasurfaces and Nanophotonics**
+- **Optical Computing and Optical Neural Networks**
+- **Multidimensional Computational Imaging**
+- **Structured Light Manipulation and Detection**
+- **Integrated Meta-optical Sensors and Imaging Chips**
+
+## Academic Profiles
+
+- [Google Scholar](https://scholar.google.com.hk/citations?user=_G05MfUAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Xiaoxin-Li-6)
+- [GitHub](https://github.com/XiaoxinLi-optics)
+- [Curriculum Vitae](cv.html)
