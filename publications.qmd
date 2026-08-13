@@ -1,111 +1,136 @@
 ---
-title: "Publications & Patents"
+pagetitle: "Publications | Xiaoxin Li"
+description-meta: "Publications of Xiaoxin Li in nanophotonics, metasurfaces, optical computing, computational imaging, structured light, and integrated photonic sensing."
+page-layout: full
 ---
 
-Selected representative works are highlighted below.
+::: {.publication-page}
 
-## Selected Publications（论文）
+# Publications
 
-### 1. [Simultaneous Sorting of Arbitrary Vector Structured Beams with Spin-Multiplexed Diffractive Metasurfaces](assets/pdf/Simultaneous sorting of arbitrary vector structured beams with spin-multiplexed.pdf)
+::: {.publications-intro}
 
-*Xiaoxin Li*, et al. Advanced Photonics Nexus, 2024, 3(3): 036010-036010.
+Selected journal publications in **nanophotonics, metasurfaces, optical computing, computational imaging, structured light, and integrated photonic sensing**.
 
-**Summary:**  
-A compact spin-multiplexed diffractive metasurface framework for simultaneous sorting and detection of arbitrary vector structured beams.
+**Xiaoxin Li** is highlighted in bold. Authorship contributions are indicated where applicable.
 
-**Highlights:**  
-![](assets/images/SCR-20260428-vhz.png){width=1000 fig-align="center"}
+[Google Scholar ↗](https://scholar.google.com.hk/citations?user=_G05MfUAAAAJ&hl=en){target="_blank" .publication-scholar}
 
----
-
-### 2. [Diffractive Metasurface-Enabled Single-Shot Characterization of Hybrid-Order Poincaré Beams](assets/pdf/Diffractive Metasurface-enabled Single-shot Characterization of Hybrid-Order Poincaré Beams.pdf)
-
-*Xiaoxin Li*, et al. Advanced Optical Materials, 2025, 13(13): 2403405. 
-
-**Summary:**  
-A single-shot and real-time characterization strategy for hybrid-order Poincaré beams using cascaded diffractive metasurfaces and electronic neural networks.
-
-**Highlights:**  
-![](assets/images/SCR-20260428-vl0.jpeg){width=1000 fig-align="center"}
-
----
-
----
-
-### 3. Efficient Coupling of Topological Photonic Crystal Waveguides Based on Transverse Spin Matching Mechanism
-
-Bojian Shi, Qi Jia, *Xiaoxin Li*, Nature Communications (2025) 
-
-**Summary:**  
-A transverse-spin-matching mechanism for efficient coupling between topological photonic crystal waveguides and conventional strip waveguides.
-
-**Highlights:**  
-![](assets/images/SCR-20260501-nc.png){width=1000 fig-align="center"}
+:::
 
 
-### 4. Polarization-Independent, High-NA Edge Detection with Nonlocal Metasurfaces
+## 2026 {.publication-year}
 
-Yalong Liu, *Xiaoxin Li_#*, el al. Optics Letters, 2025, 50(11): 3517-3520. 
 
-**Summary:**  
-A nonlocal dielectric metasurface for polarization-independent optical edge detection with both high numerical aperture and broadband response.
+::: {.publication-item .publication-full}
 
-**Highlights:**  
-![](assets/images/SCR-20260501-vhz.png){width=1000 fig-align="center"}
+### [Snapshot Thermal Spectral Imaging Based on Hybrid Metasurfaces with High Efficiency and High Spectral Resolution](https://doi.org/10.1117/1.APN.5.6.066001){target="_blank"}
 
----
+Wentong Shi, **Xiaoxin Li**, Wenya Gao, Yanyu Gao, Yanxia Zhang, Qi Jia, Aisong Wu, Zixin Wu, Bojie Dong, Rui Feng, Yongyin Cao, Fangkui Sun, Bojian Shi, Weiqiang Ding
 
-### Bilayer Metasurface-Enabled High-Sensitivity Near-Infrared Computational Spectrometer
+*[Advanced Photonics Nexus]{.journal-name}* **5**(6), 066001 (2026)
+
+[Corresponding author]{.pub-role}
+
+[DOI: 10.1117/1.APN.5.6.066001](https://doi.org/10.1117/1.APN.5.6.066001){target="_blank" .paper-doi}
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Calibration-Free On-Chip Spectrometer Based on Topological Waveguides](https://pubs.acs.org/doi/10.1021/acsphotonics.6c00609){target="_blank"}
+
+Wenya Gao, **Xiaoxin Li**, Yanyu Gao, Wentong Shi, Yudie Yang, Jiamu Li, Hanzhi Deng, Bojian Shi, Qi Jia, Rui Feng, Yongyin Cao, Fangkui Sun, Weiqiang Ding
+
+*[ACS Photonics]{.journal-name}* **13**(14), 3934–3941 (2026)
+
+[Co-first author]{.pub-role}
+
+[DOI: 10.1021/acsphotonics.6c00609](https://pubs.acs.org/doi/10.1021/acsphotonics.6c00609){target="_blank" .paper-doi}
+
+:::
+
+
+## 2025 {.publication-year}
+
+
+::: {.publication-item .publication-full}
+
+### [Efficient Coupling of Topological Photonic Crystal Waveguides Based on Transverse Spin Matching Mechanism](https://www.nature.com/articles/s41467-025-59941-6){target="_blank"}
+
+Bojian Shi, Qi Jia, **Xiaoxin Li**, Yanxia Zhang, Hang Li, Yanyu Gao, Wenya Gao, Xiaoyu Li, Donghua Tang, Tongtong Zhu, Shan Gao, Jing Yang, Rui Feng, Fangkui Sun, Chunying Guan, Yongyin Cao, Cheng-Wei Qiu, Weiqiang Ding
+
+*[Nature Communications]{.journal-name}* **16**, 4645 (2025)
+
+[Co-first author]{.pub-role}
+
+[DOI: 10.1038/s41467-025-59941-6](https://www.nature.com/articles/s41467-025-59941-6){target="_blank" .paper-doi}
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Diffractive Metasurface-Enabled Single-Shot Characterization of Hybrid-Order Poincaré Beams](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202403405){target="_blank"}
+
+**Xiaoxin Li**, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Donghua Tang, Yongyin Cao, Fangkui Sun, Rui Feng, Weiqiang Ding
+
+*[Advanced Optical Materials]{.journal-name}* **13**, 2403405 (2025)
+
+[First author]{.pub-role}
+
+[DOI: 10.1002/adom.202403405](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202403405){target="_blank" .paper-doi}
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Polarization-Independent, High-NA Edge Detection with Nonlocal Metasurfaces](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-11-3517){target="_blank"}
+
+Yalong Liu, **Xiaoxin Li**, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Fangkui Sun, Yongyin Cao, Rui Feng, Weiqiang Ding
+
+*[Optics Letters]{.journal-name}* **50**(11), 3517–3520 (2025)
+
+[Co-first author]{.pub-role}
+
+[DOI: 10.1364/OL.562895](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-11-3517){target="_blank" .paper-doi}
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Bilayer Metasurface-Enabled High-Sensitivity Near-Infrared Computational Spectrometer](https://www.sciencedirect.com/science/article/pii/S0030401825005796){target="_blank"}
 
 Juntong Chen, **Xiaoxin Li**, Bojian Shi, Qi Jia, Yanxia Zhang, Wenya Gao, Yanyu Gao, Wentong Shi, Yongyin Cao, Hongyan Shi, Fangkui Sun, Rui Feng, Weiqiang Ding
 
-**Optics Communications (2025)**  
-**DOI:** 10.1016/j.optcom.2025.132051
+*[Optics Communications]{.journal-name}* **591**, 132051 (2025)
 
-**Summary:**  
-A bilayer metasurface computational spectrometer that combines spectral encoding and broadband achromatic focusing for high-sensitivity near-infrared sensing.
+[Co-first author]{.pub-role}
 
-**Highlights:**  
-- Ultra-compact footprint of only 21 × 21 μm  
-- Sensitivity improved by about 60% compared with conventional structures  
-- Spectral reconstruction fidelity reaches 93.5%  
+[DOI: 10.1016/j.optcom.2025.132051](https://www.sciencedirect.com/science/article/pii/S0030401825005796){target="_blank" .paper-doi}
+
+:::
 
 
+## 2024 {.publication-year}
 
 
-## Patents(专利)
+::: {.publication-item .publication-full}
 
-### Broadband Full-Stokes Polarization Imaging Device Based on Non-Orthogonal Four-Channel Polarization Splitting
+### [Simultaneous Sorting of Arbitrary Vector Structured Beams with Spin-Multiplexed Diffractive Metasurfaces](https://doi.org/10.1117/1.APN.3.3.036010){target="_blank"}
 
-**Status:** Patent application accepted  
-**Application No.:** 202511764621.1  
-**Application Date:** 2025-11-27  
-**Applicant:** Harbin Institute of Technology  
-**Inventors:** Ding Weiqiang, Li Xiaoxin, Feng Rui, Cao Yongyin, Sun Fangkui
+**Xiaoxin Li**, Rui Feng, Fangkui Sun, Yanxia Zhang, Qi Jia, Donghua Tang, Bojian Shi, Hang Li, Yanyu Gao, Wenya Gao, Yongyin Cao, Weiqiang Ding
 
-A broadband full-Stokes polarization imaging device based on non-orthogonal four-channel polarization splitting.
+*[Advanced Photonics Nexus]{.journal-name}* **3**(3), 036010 (2024)
 
----
+[First author]{.pub-role}
 
-### Polarization-State Characterization Method for Hybrid-Order Poincaré Beams Based on Diffractive Metasurfaces
+[DOI: 10.1117/1.APN.3.3.036010](https://doi.org/10.1117/1.APN.3.3.036010){target="_blank" .paper-doi}
 
-**Status:** Patent application accepted  
-**Application No.:** 202510183871.X  
-**Application Date:** 2025-02-19  
-**Applicant:** Harbin Institute of Technology  
-**Inventors:** Li Xiaoxin, Feng Rui, Shi Bojian, Ding Weiqiang, Sun Fangkui
+:::
 
-A diffractive-metasurface-based method for polarization-state characterization of hybrid-order Poincaré beams.
 
----
-
-### Pixel-Level High-Efficiency Visible Bayer Color Filter Based on Metalens / Metasurface
-
-**Status:** Patent application accepted  
-**Application No.:** 202211486566.0  
-**Application Date:** 2022-11-24  
-**Applicant:** Harbin Institute of Technology
-
-A pixel-level high-efficiency visible Bayer color filter based on a metalens / metasurface architecture.
-
----
+:::

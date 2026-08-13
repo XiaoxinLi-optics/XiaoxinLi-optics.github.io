@@ -1,29 +1,1419 @@
+/* =========================================================
+   Xiaoxin Li Academic Homepage
+   Refined Academic Profile
+   ========================================================= */
+
+
+/* =========================================================
+   Theme
+   ========================================================= */
+
+:root {
+
+  --text: #282828;
+  --heading: #171717;
+  --muted: #666666;
+
+  /* Primary academic blue */
+  --accent: #245f83;
+  --accent-dark: #184761;
+  --accent-soft: #eef5f8;
+
+  /* Secondary teal */
+  --accent-secondary: #347b78;
+  --accent-secondary-soft: #eef7f6;
+
+  --line: #e6e8ea;
+  --line-light: #f0f1f2;
+
+  --panel: #fafbfc;
+
+  --background: #ffffff;
+}
+
+
+/* =========================================================
+   Global
+   ========================================================= */
+
+html {
+  scroll-behavior: smooth;
+}
+
+
 body {
-  font-family: "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.8;
+
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "Helvetica Neue",
+    Arial,
+    sans-serif;
+
+  font-size: 1rem;
+
+  line-height: 1.72;
+
+  color: var(--text);
+
+  background: var(--background);
+
+  -webkit-font-smoothing: antialiased;
+
+  text-rendering: optimizeLegibility;
 }
 
-.navbar {
-  font-weight: 500;
+
+/* =========================================================
+   Main
+   ========================================================= */
+
+main.content {
+
+  max-width: none;
+
+  padding-top: 0;
+
+  padding-bottom: 4rem;
 }
 
-h1, h2, h3 {
+
+/* =========================================================
+   Main profile layout
+   ========================================================= */
+
+.profile-page {
+
+  max-width: 1190px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  padding:
+    3.8rem
+    2rem
+    5rem;
+
+  display: grid;
+
+  grid-template-columns:
+    235px
+    minmax(0, 1fr);
+
+  column-gap: 5.4rem;
+
+  align-items: start;
+}
+
+
+/* =========================================================
+   Sidebar
+   ========================================================= */
+
+.profile-sidebar {
+
+  position: sticky;
+
+  top: 92px;
+
+  align-self: start;
+
+  text-align: left;
+}
+
+
+/* ---------- Portrait ---------- */
+
+.profile-photo {
+
+  width: 176px;
+
+  height: 176px;
+
+  display: block;
+
+  object-fit: cover;
+
+  margin:
+    0
+    0
+    1.65rem
+    0;
+
+  border-radius: 50%;
+
+  border:
+    4px
+    solid
+    #ffffff;
+
+  box-shadow:
+    0
+    0
+    0
+    1px
+    #dde2e6,
+    0
+    7px
+    22px
+    rgba(25, 45, 60, 0.09);
+}
+
+
+/* ---------- Name ---------- */
+
+.profile-sidebar h1 {
+
+  margin-top: 0;
+
+  margin-bottom: 0.55rem;
+
+  font-size: 1.92rem;
+
+  line-height: 1.1;
+
+  font-weight: 730;
+
+  letter-spacing: -0.035em;
+
+  color: var(--heading);
+}
+
+
+/* ---------- Role ---------- */
+
+.profile-role {
+
+  display: inline-block;
+
+  margin-bottom: 1rem;
+
+  color: var(--accent);
+
+  font-size: 0.95rem;
+
+  font-weight: 650;
+}
+
+
+/* ---------- Sidebar text ---------- */
+
+.profile-sidebar p {
+
+  margin-top: 0;
+
+  margin-bottom: 0.68rem;
+
+  font-size: 0.91rem;
+
+  line-height: 1.55;
+
+  color: var(--muted);
+}
+
+
+.profile-sidebar strong {
+
+  font-weight: 600;
+
+  color: #303030;
+}
+
+
+/* =========================================================
+   Research focus
+   ========================================================= */
+
+.profile-focus {
+
+  margin-top: 1.45rem;
+
+  padding:
+    0.9rem
+    0.9rem
+    0.85rem;
+
+  background: var(--accent-soft);
+
+  border-left:
+    3px
+    solid
+    var(--accent);
+
+  border-radius: 3px;
+}
+
+
+.profile-focus p {
+
+  margin-bottom: 0.2rem;
+
+  font-size: 0.84rem;
+
+  line-height: 1.55;
+
+  color: #53616a;
+}
+
+
+.profile-focus strong {
+
+  display: block;
+
+  margin-bottom: 0.3rem;
+
+  color: var(--accent-dark);
+
+  font-size: 0.81rem;
+
   font-weight: 700;
+
+  letter-spacing: 0.04em;
+
+  text-transform: uppercase;
 }
 
-.quarto-title-banner {
-  background: #f8fafc;
+
+/* =========================================================
+   Sidebar links
+   ========================================================= */
+
+.profile-links {
+
+  margin-top: 1.55rem;
+
+  padding-top: 1.2rem;
+
+  border-top: 1px solid var(--line);
 }
 
-a {
+
+.profile-links p {
+
+  margin:
+    0
+    0
+    0.42rem
+    0;
+}
+
+
+.profile-links a {
+
+  display: inline-block;
+
+  position: relative;
+
+  padding-left: 1.1rem;
+
+  font-size: 0.9rem;
+
+  font-weight: 520;
+
+  color: #484848;
+
   text-decoration: none;
 }
 
+
+.profile-links a::before {
+
+  content: "↗";
+
+  position: absolute;
+
+  left: 0;
+
+  top: 0.07rem;
+
+  color: #9aa3a8;
+
+  font-size: 0.76rem;
+}
+
+
+.profile-links a:hover {
+
+  color: var(--accent);
+
+  text-decoration: none;
+}
+
+
+/* =========================================================
+   Main content
+   ========================================================= */
+
+.profile-main {
+
+  max-width: 830px;
+}
+
+
+/* =========================================================
+   Section headings
+   ========================================================= */
+
+.profile-main h2 {
+
+  position: relative;
+
+  margin-top: 4.9rem;
+
+  margin-bottom: 1.85rem;
+
+  padding-bottom: 0.78rem;
+
+  font-size: 1.76rem;
+
+  line-height: 1.25;
+
+  font-weight: 730;
+
+  letter-spacing: -0.027em;
+
+  color: var(--heading);
+}
+
+
+.profile-main h2::after {
+
+  content: "";
+
+  position: absolute;
+
+  left: 0;
+
+  bottom: 0;
+
+  width: 45px;
+
+  height: 2.5px;
+
+  background: var(--accent);
+
+  border-radius: 2px;
+}
+
+
+.profile-main > h2:first-child {
+
+  margin-top: 0;
+}
+
+
+.profile-main p {
+
+  margin-bottom: 1.12rem;
+}
+
+
+/* =========================================================
+   Research statement
+   ========================================================= */
+
+.research-statement {
+
+  position: relative;
+
+  margin:
+    1.8rem
+    0;
+
+  padding:
+    1.05rem
+    1.25rem
+    1.05rem
+    1.4rem;
+
+  background: #f7fafb;
+
+  border-left:
+    3px
+    solid
+    var(--accent-secondary);
+
+  border-radius:
+    0
+    5px
+    5px
+    0;
+}
+
+
+.research-statement p {
+
+  margin: 0;
+
+  color: #3f4c50;
+
+  font-size: 0.96rem;
+
+  line-height: 1.68;
+}
+
+
+.research-statement strong {
+
+  color: var(--accent-secondary);
+
+  font-weight: 650;
+}
+
+
+/* =========================================================
+   Publications
+   ========================================================= */
+
+.publication-item {
+
+  position: relative;
+
+  margin-bottom: 0;
+
+  padding:
+    1.12rem
+    0
+    1.3rem
+    0;
+
+  border-bottom:
+    1px
+    solid
+    var(--line-light);
+
+  transition:
+    padding-left 0.18s ease,
+    border-color 0.18s ease;
+}
+
+
+.publication-item:hover {
+
+  padding-left: 0.55rem;
+
+  border-color: #cfdae0;
+}
+
+
+/* ---------- Paper title ---------- */
+
+.publication-item h3 {
+
+  margin-top: 0;
+
+  margin-bottom: 0.58rem;
+
+  max-width: 770px;
+
+  font-size: 1.08rem;
+
+  line-height: 1.47;
+
+  font-weight: 650;
+
+  letter-spacing: -0.008em;
+}
+
+
+.publication-item h3 a {
+
+  color: var(--accent);
+
+  text-decoration: none;
+
+  transition: color 0.15s ease;
+}
+
+
+.publication-item h3 a:hover {
+
+  color: var(--accent-dark);
+
+  text-decoration: underline;
+
+  text-decoration-thickness: 1px;
+
+  text-underline-offset: 3px;
+}
+
+
+/* ---------- Publication metadata ---------- */
+
+.publication-item p {
+
+  margin-top: 0;
+
+  margin-bottom: 0.13rem;
+
+  font-size: 0.91rem;
+
+  line-height: 1.58;
+
+  color: var(--muted);
+}
+
+
+.publication-item strong {
+
+  color: #333333;
+
+  font-weight: 620;
+}
+
+
+/* ---------- Journal ---------- */
+
+.journal-name {
+
+  color: var(--accent-secondary);
+
+  font-weight: 610;
+}
+
+
+/* ---------- Authorship badge ---------- */
+
+.pub-role {
+
+  display: inline-block;
+
+  margin-top: 0.36rem;
+
+  padding:
+    0.18rem
+    0.52rem;
+
+  background: var(--accent-secondary-soft);
+
+  border:
+    1px
+    solid
+    #d7e9e7;
+
+  border-radius: 999px;
+
+  color: var(--accent-secondary);
+
+  font-size: 0.73rem;
+
+  line-height: 1.3;
+
+  font-weight: 650;
+
+  letter-spacing: 0.015em;
+}
+
+
+/* ---------- All publications ---------- */
+
+.all-publications-link {
+
+  display: inline-block;
+
+  margin-top: 1.3rem;
+
+  padding-bottom: 0.12rem;
+
+  color: var(--accent);
+
+  border-bottom:
+    1px
+    solid
+    #b9cad4;
+
+  font-size: 0.93rem;
+
+  font-weight: 620;
+
+  text-decoration: none;
+}
+
+
+.all-publications-link:hover {
+
+  color: var(--accent-dark);
+
+  border-color: var(--accent-dark);
+
+  text-decoration: none;
+}
+
+
+/* =========================================================
+   Research
+   ========================================================= */
+
+.research-item {
+
+  display: grid;
+
+  grid-template-columns:
+    31%
+    minmax(0, 1fr);
+
+  gap: 2.25rem;
+
+  align-items: center;
+
+  margin:
+    0
+    -0.8rem;
+
+  padding:
+    1.55rem
+    0.8rem
+    2.05rem;
+
+  border-bottom:
+    1px
+    solid
+    var(--line-light);
+
+  border-radius: 7px;
+
+  transition:
+    background-color 0.18s ease;
+}
+
+
+.research-item:hover {
+
+  background: #fafcfd;
+}
+
+
+.research-item:last-child {
+
+  border-bottom: none;
+}
+
+
+/* ---------- Research figure ---------- */
+
+.research-figure {
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  min-height: 175px;
+
+  padding: 0.65rem;
+
+  overflow: hidden;
+
+  background: #fafafa;
+
+  border:
+    1px
+    solid
+    #e9ebed;
+
+  border-radius: 7px;
+}
+
+
+.research-figure img {
+
+  display: block;
+
+  width: 100%;
+
+  max-height: 195px;
+
+  object-fit: contain;
+
+  border-radius: 3px;
+
+  transition:
+    transform 0.22s ease;
+}
+
+
+.research-item:hover
+.research-figure img {
+
+  transform: scale(1.015);
+}
+
+
+/* ---------- Research text ---------- */
+
+.research-content h3 {
+
+  margin-top: 0;
+
+  margin-bottom: 0.72rem;
+
+  color: var(--accent);
+
+  font-size: 1.21rem;
+
+  line-height: 1.35;
+
+  font-weight: 660;
+
+  letter-spacing: -0.013em;
+}
+
+
+.research-content p {
+
+  margin-bottom: 0;
+
+  color: #4a4a4a;
+
+  font-size: 0.95rem;
+
+  line-height: 1.7;
+}
+
+
+/* =========================================================
+   Generic links
+   ========================================================= */
+
+a {
+
+  color: var(--accent);
+
+  text-decoration: none;
+}
+
+
 a:hover {
+
   text-decoration: underline;
 }
 
-img {
-  border-radius: 10px;
-  max-width: 100%;
+
+/* =========================================================
+   Navbar
+   ========================================================= */
+
+.navbar {
+
+  min-height: 61px;
+
+  background:
+    rgba(255, 255, 255, 0.94) !important;
+
+  border-bottom:
+    1px
+    solid
+    #eceeef;
+
+  font-weight: 500;
+
+  backdrop-filter: blur(10px);
+
+  -webkit-backdrop-filter: blur(10px);
+}
+
+
+.navbar-brand {
+
+  color: #202020 !important;
+
+  font-size: 1.08rem;
+
+  font-weight: 700;
+
+  letter-spacing: -0.018em;
+}
+
+
+.navbar .nav-link {
+
+  padding-left: 0.75rem !important;
+
+  padding-right: 0.75rem !important;
+
+  color: #444 !important;
+
+  font-size: 0.91rem;
+}
+
+
+.navbar .nav-link:hover {
+
+  color: var(--accent) !important;
+
+  text-decoration: none;
+}
+
+
+/* =========================================================
+   Footer
+   ========================================================= */
+
+.nav-footer {
+
+  border-top:
+    1px
+    solid
+    #ededed;
+
+  background: #fafafa;
+
+  color: #777;
+
+  font-size: 0.84rem;
+}
+
+
+.nav-footer-left,
+.nav-footer-right {
+
+  padding-top: 0.85rem;
+
+  padding-bottom: 0.85rem;
+}
+
+
+/* =========================================================
+   Remove Quarto title
+   ========================================================= */
+
+header#title-block-header {
+
+  display: none;
+}
+
+
+.quarto-title-banner {
+
+  display: none;
+}
+
+
+/* =========================================================
+   Selection
+   ========================================================= */
+
+::selection {
+
+  background: var(--accent-soft);
+
+  color: #111;
+}
+
+
+/* =========================================================
+   Tablet
+   ========================================================= */
+
+@media (max-width: 920px) {
+
+  .profile-page {
+
+    grid-template-columns:
+      205px
+      minmax(0, 1fr);
+
+    column-gap: 3.2rem;
+
+    padding-left: 1.5rem;
+
+    padding-right: 1.5rem;
+  }
+
+
+  .profile-photo {
+
+    width: 155px;
+
+    height: 155px;
+  }
+
+
+  .research-item {
+
+    grid-template-columns:
+      35%
+      minmax(0, 1fr);
+
+    gap: 1.6rem;
+  }
+
+}
+
+
+/* =========================================================
+   Mobile
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+  .profile-page {
+
+    display: block;
+
+    padding:
+      2.4rem
+      1.15rem
+      4rem;
+  }
+
+
+  .profile-sidebar {
+
+    position: static;
+
+    margin-bottom: 3.4rem;
+
+    padding-bottom: 2.5rem;
+
+    text-align: center;
+
+    border-bottom:
+      1px
+      solid
+      var(--line);
+  }
+
+
+  .profile-photo {
+
+    width: 155px;
+
+    height: 155px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+  }
+
+
+  .profile-sidebar h1 {
+
+    font-size: 1.75rem;
+  }
+
+
+  .profile-focus {
+
+    max-width: 300px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    text-align: left;
+  }
+
+
+  .profile-links {
+
+    max-width: 230px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    text-align: left;
+  }
+
+
+  .profile-main {
+
+    max-width: none;
+  }
+
+
+  .profile-main h2 {
+
+    margin-top: 3.8rem;
+
+    font-size: 1.55rem;
+  }
+
+
+  .publication-item:hover {
+
+    padding-left: 0;
+  }
+
+
+  .research-item {
+
+    display: block;
+
+    margin-left: 0;
+
+    margin-right: 0;
+
+    padding:
+      1.7rem
+      0
+      2.25rem;
+  }
+
+
+  .research-figure {
+
+    min-height: auto;
+
+    margin-bottom: 1.35rem;
+  }
+
+
+  .research-figure img {
+
+    max-height: none;
+  }
+
+
+  .research-content h3 {
+
+    font-size: 1.16rem;
+  }
+
+}
+/* =========================================================
+   Full Publications Page
+   ========================================================= */
+
+
+/* ---------- Page layout ---------- */
+
+.publication-page {
+
+  max-width: 900px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  padding:
+    3.8rem
+    2rem
+    5rem;
+}
+
+
+/* ---------- Main page title ---------- */
+
+.publication-page > h1 {
+
+  position: relative;
+
+  margin-top: 0;
+  margin-bottom: 1rem;
+
+  padding-bottom: 0.8rem;
+
+  color: var(--heading);
+
+  font-size: 2.35rem;
+
+  line-height: 1.15;
+
+  font-weight: 740;
+
+  letter-spacing: -0.035em;
+}
+
+
+.publication-page > h1::after {
+
+  content: "";
+
+  position: absolute;
+
+  left: 0;
+  bottom: 0;
+
+  width: 52px;
+  height: 3px;
+
+  background: var(--accent);
+
+  border-radius: 2px;
+}
+
+
+/* ---------- Intro ---------- */
+
+.publications-intro {
+
+  max-width: 760px;
+
+  margin-bottom: 3.6rem;
+
+  color: var(--muted);
+}
+
+
+.publications-intro p {
+
+  margin-bottom: 0.8rem;
+
+  font-size: 0.96rem;
+
+  line-height: 1.7;
+}
+
+
+.publication-scholar {
+
+  display: inline-block;
+
+  margin-top: 0.45rem;
+
+  color: var(--accent);
+
+  font-size: 0.91rem;
+
+  font-weight: 620;
+
+  text-decoration: none;
+}
+
+
+.publication-scholar:hover {
+
+  color: var(--accent-dark);
+
+  text-decoration: underline;
+
+  text-underline-offset: 3px;
+}
+
+
+/* =========================================================
+   Year heading
+   ========================================================= */
+
+.publication-year {
+
+  position: relative;
+
+  margin-top: 3.8rem;
+  margin-bottom: 0.8rem;
+
+  padding-bottom: 0.55rem;
+
+  color: var(--heading);
+
+  font-size: 1.45rem;
+
+  font-weight: 700;
+
+  letter-spacing: -0.02em;
+
+  border-bottom:
+    1px
+    solid
+    var(--line);
+}
+
+
+.publication-year::before {
+
+  content: "";
+
+  display: inline-block;
+
+  width: 7px;
+  height: 7px;
+
+  margin-right: 0.55rem;
+
+  vertical-align: 0.13rem;
+
+  background: var(--accent-secondary);
+
+  border-radius: 50%;
+}
+
+
+/* =========================================================
+   Full publication entries
+   ========================================================= */
+
+.publication-full {
+
+  padding-top: 1.45rem;
+  padding-bottom: 1.5rem;
+}
+
+
+/* ---------- Paper title ---------- */
+
+.publication-full h3 {
+
+  max-width: 830px;
+
+  margin-top: 0;
+  margin-bottom: 0.65rem;
+
+  font-size: 1.11rem;
+
+  line-height: 1.48;
+
+  font-weight: 660;
+
+  letter-spacing: -0.009em;
+}
+
+
+.publication-full h3 a {
+
+  color: var(--accent);
+
+  text-decoration: none;
+}
+
+
+.publication-full h3 a:hover {
+
+  color: var(--accent-dark);
+
+  text-decoration: underline;
+
+  text-decoration-thickness: 1px;
+
+  text-underline-offset: 3px;
+}
+
+
+/* ---------- Authors ---------- */
+
+.publication-full > p:nth-of-type(1) {
+
+  margin-bottom: 0.42rem;
+
+  color: #505050;
+
+  font-size: 0.92rem;
+
+  line-height: 1.65;
+}
+
+
+/* Xiaoxin Li */
+
+.publication-full strong {
+
+  color: #202020;
+
+  font-weight: 680;
+}
+
+
+/* ---------- Journal ---------- */
+
+.publication-full .journal-name {
+
+  color: var(--accent-secondary);
+
+  font-weight: 630;
+}
+
+
+/* ---------- Role badge ---------- */
+
+.publication-full .pub-role {
+
+  margin-top: 0.2rem;
+  margin-bottom: 0.25rem;
+}
+
+
+/* ---------- DOI ---------- */
+
+.paper-doi {
+
+  display: inline-block;
+
+  margin-top: 0.4rem;
+
+  color: #7a7a7a;
+
+  font-size: 0.81rem;
+
+  font-weight: 500;
+
+  text-decoration: none;
+}
+
+
+.paper-doi:hover {
+
+  color: var(--accent);
+
+  text-decoration: none;
+}
+
+
+/* =========================================================
+   Publication hover
+   ========================================================= */
+
+.publication-full {
+
+  transition:
+    padding-left 0.18s ease,
+    border-color 0.18s ease;
+}
+
+
+.publication-full:hover {
+
+  padding-left: 0.65rem;
+
+  border-color: #cfdae0;
+}
+
+
+/* =========================================================
+   Mobile publications
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+  .publication-page {
+
+    padding:
+      2.5rem
+      1.15rem
+      4rem;
+  }
+
+
+  .publication-page > h1 {
+
+    font-size: 2rem;
+  }
+
+
+  .publications-intro {
+
+    margin-bottom: 2.8rem;
+  }
+
+
+  .publication-year {
+
+    margin-top: 3rem;
+
+    font-size: 1.3rem;
+  }
+
+
+  .publication-full h3 {
+
+    font-size: 1.04rem;
+  }
+
+
+  .publication-full:hover {
+
+    padding-left: 0;
+  }
+
 }

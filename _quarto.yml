@@ -7,49 +7,40 @@ project:
 website:
   title: "Xiaoxin Li"
 
-  description: "Academic homepage of Xiaoxin Li (李效欣), focusing on nanophotonics, metasurfaces, optical computing, multidimensional imaging, and computational photonics."
+  description: "Academic homepage of Xiaoxin Li, focusing on nanophotonics, metasurfaces, optical computing, multidimensional computational imaging, and integrated photonic sensing."
 
   site-url: "https://xiaoxinli-optics.github.io/"
 
   repo-url: "https://github.com/XiaoxinLi-optics/XiaoxinLi-optics.github.io"
 
-  favicon: assets/images/favicon.png
+  favicon: "assets/images/favicon.png"
 
   open-graph: true
 
   navbar:
-    search: true
+    search: false
 
     left:
       - text: "Home"
-        href: index.qmd
-
-      - text: "Research"
-        href: research.qmd
+        href: "index.qmd"
 
       - text: "Publications"
-        href: publications.qmd
-
-      - text: "CV"
-        href: cv.qmd
-
-      - text: "Contact"
-        href: contact.qmd
+        href: "publications.qmd"
 
     right:
       - text: "Google Scholar"
-        href: https://scholar.google.com.hk/citations?user=_G05MfUAAAAJ&hl=zh-CN
+        href: "https://scholar.google.com.hk/citations?user=_G05MfUAAAAJ&hl=en"
 
       - text: "GitHub"
-        href: https://github.com/XiaoxinLi-optics
+        href: "https://github.com/XiaoxinLi-optics"
 
   page-footer:
     left: "© 2026 Xiaoxin Li"
-    right: "Beihang University"
+    right: "Sustainable Photonics Research Center (SPRC)"
 
 format:
   html:
     theme: cosmo
     css: styles.scss
-    toc: true
+    toc: false
     smooth-scroll: true

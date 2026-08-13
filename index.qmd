@@ -1,33 +1,216 @@
 ---
 pagetitle: "Xiaoxin Li | Nanophotonics, Metasurfaces & Optical Computing"
-description-meta: "Academic homepage of Xiaoxin Li, a postdoctoral researcher working on nanophotonics, metasurfaces, optical computing, optical neural networks, multidimensional computational imaging, and integrated photonic sensing."
+description-meta: "Academic homepage of Xiaoxin Li, a postdoctoral researcher working on nanophotonics, metasurfaces, optical computing, multidimensional computational imaging, and intelligent optical sensing."
+page-layout: full
 ---
+
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+![Xiaoxin Li](assets/images/Lixiaoxin1.jpg){.profile-photo}
 
 # Xiaoxin Li
 
-**Postdoctoral Researcher | Nanophotonics · Metasurfaces · Optical Computing · Multidimensional Imaging**
+[Postdoctoral Researcher]{.profile-role}
 
-Sustainable Photonics Research Center (SPRC), Hangzhou International Innovation Institute of Beihang University, China
+Sustainable Photonics Research Center (SPRC)
 
-![Portrait of Xiaoxin Li](assets/images/Lixiaoxin1.jpg){width=220 fig-align="center"}
+Hangzhou International Innovation Institute of Beihang University, China
 
-## About Me
+Hangzhou, China
 
-Xiaoxin Li is a postdoctoral researcher at the Sustainable Photonics Research Center (SPRC), Hangzhou International Innovation Institute of Beihang University, China. He received his B.S., M.S., and Ph.D. degrees from Harbin Institute of Technology.
 
-His research focuses on **nanophotonics, dielectric metasurfaces, optical computing, optical neural networks, multidimensional computational imaging, and integrated photonic sensing**. His work explores the integration of nanophotonic devices with computational algorithms for compact, high-dimensional, and intelligent optical sensing and information processing. His research has been published in journals including *Nature Communications*, *ACS Photonics*, *Advanced Optical Materials*, and *Advanced Photonics Nexus*.
+::: {.profile-focus}
 
-## Research Interests
+**Research Focus**
 
-- **Metasurfaces and Nanophotonics**
-- **Optical Computing and Optical Neural Networks**
-- **Multidimensional Computational Imaging**
-- **Structured Light Manipulation and Detection**
-- **Integrated Meta-optical Sensors and Imaging Chips**
+Metasurfaces · Optical Computing · Computational Imaging · Intelligent Optical Sensing
 
-## Academic Profiles
+:::
 
-- [Google Scholar](https://scholar.google.com.hk/citations?user=_G05MfUAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Xiaoxin-Li-6)
-- [GitHub](https://github.com/XiaoxinLi-optics)
-- [Curriculum Vitae](cv.html)
+
+::: {.profile-links}
+
+[Google Scholar](https://scholar.google.com.hk/citations?user=_G05MfUAAAAJ&hl=en){target="_blank"}
+
+[ResearchGate](https://www.researchgate.net/profile/Xiaoxin-Li-6){target="_blank"}
+
+[GitHub](https://github.com/XiaoxinLi-optics){target="_blank"}
+
+:::
+
+:::
+
+
+::: {.profile-main}
+
+## About
+
+I am a postdoctoral researcher at the **Sustainable Photonics Research Center (SPRC), Hangzhou International Innovation Institute of Beihang University, China**. I received my B.S., M.S., and Ph.D. degrees from Harbin Institute of Technology.
+
+My research centers on **nanophotonics and metasurface-enabled optical information processing**, with particular interests in optical computing, multidimensional computational imaging, structured-light detection, and integrated optical sensing. I develop nanophotonic systems that combine **physical optical encoding with computational decoding**, aiming to move selected sensing and information-processing functions from conventional electronic back ends into compact optical front ends.
+
+::: {.research-statement}
+
+A central theme of my work is the **co-design of nanophotonic hardware and computational algorithms**—engineering how optical information is encoded, transformed, and detected before it reaches conventional electronic processors.
+
+:::
+
+My research has been published in journals including *Nature Communications*, *ACS Photonics*, *Advanced Optical Materials*, and *Advanced Photonics Nexus*.
+
+
+## Selected Publications
+
+A selection of representative works spanning metasurface computing, computational sensing, structured light, and topological photonics.
+
+
+::: {.publication-item}
+
+### [Snapshot Thermal Spectral Imaging Based on Hybrid Metasurfaces with High Efficiency and High Spectral Resolution](https://doi.org/10.1117/1.APN.5.6.066001){target="_blank"}
+
+Wentong Shi, **Xiaoxin Li**, Wenya Gao, et al.  
+*[Advanced Photonics Nexus]{.journal-name}* **5**(6), 066001 (2026).  
+[Corresponding author]{.pub-role}
+
+:::
+
+
+::: {.publication-item}
+
+### [Calibration-Free On-Chip Spectrometer Based on Topological Waveguides](https://pubs.acs.org/doi/10.1021/acsphotonics.6c00609){target="_blank"}
+
+Wenya Gao, **Xiaoxin Li**, Yanyu Gao, et al.  
+*[ACS Photonics]{.journal-name}* **13**(14), 3934–3941 (2026).  
+[Co-first author]{.pub-role}
+
+:::
+
+
+::: {.publication-item}
+
+### [Efficient Coupling of Topological Photonic Crystal Waveguides Based on Transverse Spin Matching Mechanism](https://www.nature.com/articles/s41467-025-59941-6){target="_blank"}
+
+Bojian Shi, Qi Jia, **Xiaoxin Li**, et al.  
+*[Nature Communications]{.journal-name}* **16**, 4645 (2025).  
+[Co-first author]{.pub-role}
+
+:::
+
+
+::: {.publication-item}
+
+### [Diffractive Metasurface-Enabled Single-Shot Characterization of Hybrid-Order Poincaré Beams](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202403405){target="_blank"}
+
+**Xiaoxin Li**, Bojian Shi, Qi Jia, et al.  
+*[Advanced Optical Materials]{.journal-name}* **13**, 2403405 (2025).  
+[First author]{.pub-role}
+
+:::
+
+
+::: {.publication-item}
+
+### [Simultaneous Sorting of Arbitrary Vector Structured Beams with Spin-Multiplexed Diffractive Metasurfaces](https://doi.org/10.1117/1.APN.3.3.036010){target="_blank"}
+
+**Xiaoxin Li**, Rui Feng, Fangkui Sun, et al.  
+*[Advanced Photonics Nexus]{.journal-name}* **3**(3), 036010 (2024).  
+[First author]{.pub-role}
+
+:::
+
+
+[View all publications →](publications.html){.all-publications-link}
+
+
+## Research
+
+Rather than treating nanophotonics, computing, and imaging as separate topics, my research follows a common framework: **engineering the physical transformation of optical information and jointly designing the computational interpretation of the detected signals**.
+
+
+::: {.research-item}
+
+::: {.research-figure}
+
+![](assets/images/meta1.png)
+
+:::
+
+::: {.research-content}
+
+### Metasurface Optical Computing
+
+I develop **metasurface-based optical processors** that implement engineered transformations of optical fields for information processing. My research includes diffractive optical neural networks, optical convolution, task-oriented optical encoding, and multidimensional parallel computing.
+
+A key objective is to exploit the intrinsic parallelism of light to perform selected computational operations directly in the optical domain, reducing the amount of information that must subsequently be processed electronically.
+
+:::
+
+:::
+
+
+::: {.research-item}
+
+::: {.research-figure}
+
+![](assets/images/meta3.png)
+
+:::
+
+::: {.research-content}
+
+### Multidimensional Imaging & Sensing
+
+I investigate **computational optical sensors that encode multiple dimensions of light before detection**, including spectral, polarization, spatial, and depth information.
+
+By co-designing metasurface encoders, image sensors, and reconstruction algorithms, I aim to replace bulky cascaded optical components with compact architectures capable of snapshot and high-dimensional optical sensing. This approach provides a route toward highly integrated imaging systems in which optical hardware and computational inference are designed as a unified sensing pipeline.
+
+:::
+
+:::
+
+
+::: {.research-item}
+
+::: {.research-figure}
+
+![](assets/images/meta2.png)
+
+:::
+
+::: {.research-content}
+
+### Incoherent Optical Computing
+
+I study **optical computation under incoherent and broadband illumination**, with the goal of extending optical computing from controlled coherent experiments toward practical imaging and machine-vision environments.
+
+My work explores metasurface point-spread functions and optical transfer functions for differentiation, convolution, feature extraction, and task-specific preprocessing. Particular emphasis is placed on architectures compatible with natural scenes, broadband illumination, and conventional image sensors.
+
+:::
+
+:::
+
+
+::: {.research-item}
+
+::: {.research-figure}
+
+![](assets/images/meta4.png)
+
+:::
+
+::: {.research-content}
+
+### Structured Light & Topological Photonics
+
+I explore the **generation, manipulation, and measurement of structured and topologically nontrivial optical fields**, including optical vortices, vector beams, hybrid-order Poincaré beams, and optical skyrmions.
+
+My research combines metasurface engineering, diffractive optics, and computational decoding to extract high-dimensional optical information and topological observables with compact optical systems, with potential applications in optical communication, sensing, and photonic information processing.
+
+:::
+
+:::
+
+:::
+
+:::
