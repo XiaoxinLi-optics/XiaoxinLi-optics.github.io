@@ -1,6 +1,6 @@
 ---
 pagetitle: "Publications | Xiaoxin Li"
-description-meta: "Publications of Xiaoxin Li in nanophotonics, metasurfaces, optical computing, computational imaging, structured light, and integrated photonic sensing."
+description-meta: "Complete publication list of Xiaoxin Li in nanophotonics, metasurfaces, optical computing, computational imaging, structured light, topological photonics, and integrated optical sensing."
 page-layout: full
 ---
 
@@ -10,9 +10,10 @@ page-layout: full
 
 ::: {.publications-intro}
 
-Selected journal publications in **nanophotonics, metasurfaces, optical computing, computational imaging, structured light, and integrated photonic sensing**.
+Journal publications in **nanophotonics, metasurfaces, optical computing, computational imaging, structured light, topological photonics, and integrated optical sensing**.
 
-**Xiaoxin Li** is highlighted in bold. Authorship contributions are indicated where applicable.
+[Xiaoxin Li]{.xiaoxin-author} is highlighted in blue.  
+<sup class="author-mark">*</sup> Equal contribution / co-first author · <sup class="author-mark">†</sup> Corresponding author
 
 [Google Scholar ↗](https://scholar.google.com.hk/citations?user=_G05MfUAAAAJ&hl=en){target="_blank" .publication-scholar}
 
@@ -26,13 +27,9 @@ Selected journal publications in **nanophotonics, metasurfaces, optical computin
 
 ### [Snapshot Thermal Spectral Imaging Based on Hybrid Metasurfaces with High Efficiency and High Spectral Resolution](https://doi.org/10.1117/1.APN.5.6.066001){target="_blank"}
 
-Wentong Shi, **Xiaoxin Li**, Wenya Gao, Yanyu Gao, Yanxia Zhang, Qi Jia, Aisong Wu, Zixin Wu, Bojie Dong, Rui Feng, Yongyin Cao, Fangkui Sun, Bojian Shi, Weiqiang Ding
+Wentong Shi, [Xiaoxin Li]{.xiaoxin-author}<sup class="author-mark">†</sup>, Wenya Gao, Yanyu Gao, Yanxia Zhang, Qi Jia, Aisong Wu, Zixin Wu, Bojie Dong, Rui Feng, Yongyin Cao, Fangkui Sun, Bojian Shi, Weiqiang Ding
 
 *[Advanced Photonics Nexus]{.journal-name}* **5**(6), 066001 (2026)
-
-[Corresponding author]{.pub-role}
-
-[DOI: 10.1117/1.APN.5.6.066001](https://doi.org/10.1117/1.APN.5.6.066001){target="_blank" .paper-doi}
 
 :::
 
@@ -41,13 +38,31 @@ Wentong Shi, **Xiaoxin Li**, Wenya Gao, Yanyu Gao, Yanxia Zhang, Qi Jia, Aisong 
 
 ### [Calibration-Free On-Chip Spectrometer Based on Topological Waveguides](https://pubs.acs.org/doi/10.1021/acsphotonics.6c00609){target="_blank"}
 
-Wenya Gao, **Xiaoxin Li**, Yanyu Gao, Wentong Shi, Yudie Yang, Jiamu Li, Hanzhi Deng, Bojian Shi, Qi Jia, Rui Feng, Yongyin Cao, Fangkui Sun, Weiqiang Ding
+Wenya Gao, [Xiaoxin Li]{.xiaoxin-author}<sup class="author-mark">*</sup>, Yanyu Gao, Wentong Shi, Yudie Yang, Jiamu Li, Hanzhi Deng, Bojian Shi, Qi Jia, Rui Feng, Yongyin Cao, Fangkui Sun, Weiqiang Ding
 
 *[ACS Photonics]{.journal-name}* **13**(14), 3934–3941 (2026)
 
-[Co-first author]{.pub-role}
+:::
 
-[DOI: 10.1021/acsphotonics.6c00609](https://pubs.acs.org/doi/10.1021/acsphotonics.6c00609){target="_blank" .paper-doi}
+
+::: {.publication-item .publication-full}
+
+### [Self-Induced Long-Distance Acoustic Pulling in Phononic Crystal Waveguides](https://doi.org/10.1063/5.0321239){target="_blank"}
+
+Hanzhi Deng, Yanyu Gao, Wenya Gao, Yanxia Zhang, [Xiaoxin Li]{.xiaoxin-author}, Qi Jia, Bojian Shi, Rui Feng, Yongyin Cao, Fangkui Sun, Weiqiang Ding
+
+*[Journal of Applied Physics]{.journal-name}* **139**(15), 154301 (2026)
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Broadband Topological Slow Acoustic Waves via Multiwinding Modulation in the Brillouin Zone](https://journals.aps.org/prb/abstract/10.1103/6kmw-15v4){target="_blank"}
+
+Yanyu Gao, Wenya Gao, Yanxia Zhang, [Xiaoxin Li]{.xiaoxin-author}, Qi Jia, Bojian Shi, Rui Feng, Yongyin Cao, Fangkui Sun, Weiqiang Ding
+
+*[Physical Review B]{.journal-name}* **113**, 144104 (2026)
 
 :::
 
@@ -57,30 +72,44 @@ Wenya Gao, **Xiaoxin Li**, Yanyu Gao, Wentong Shi, Yudie Yang, Jiamu Li, Hanzhi 
 
 ::: {.publication-item .publication-full}
 
-### [Efficient Coupling of Topological Photonic Crystal Waveguides Based on Transverse Spin Matching Mechanism](https://www.nature.com/articles/s41467-025-59941-6){target="_blank"}
+### [Directly Coupled Low Reflection Loss Valley Topology Defect Cavity](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-16-4958){target="_blank"}
 
-Bojian Shi, Qi Jia, **Xiaoxin Li**, Yanxia Zhang, Hang Li, Yanyu Gao, Wenya Gao, Xiaoyu Li, Donghua Tang, Tongtong Zhu, Shan Gao, Jing Yang, Rui Feng, Fangkui Sun, Chunying Guan, Yongyin Cao, Cheng-Wei Qiu, Weiqiang Ding
+Jiamu Li, Wenya Gao, Yanyu Gao, Yanxia Zhang, [Xiaoxin Li]{.xiaoxin-author}, Qi Jia, Bojian Shi, Rui Feng, Yongyin Cao, Fangkui Sun, Weiqiang Ding
 
-*[Nature Communications]{.journal-name}* **16**, 4645 (2025)
-
-[Co-first author]{.pub-role}
-
-[DOI: 10.1038/s41467-025-59941-6](https://www.nature.com/articles/s41467-025-59941-6){target="_blank" .paper-doi}
+*[Optics Letters]{.journal-name}* **50**(16), 4958–4961 (2025)
 
 :::
 
 
 ::: {.publication-item .publication-full}
 
-### [Diffractive Metasurface-Enabled Single-Shot Characterization of Hybrid-Order Poincaré Beams](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202403405){target="_blank"}
+### [In-Plane Waveguide Optical Orbital Angular Momentum Mode Generators Using Subwavelength Metamaterials](https://opg.optica.org/oe/abstract.cfm?uri=oe-33-15-31567){target="_blank"}
 
-**Xiaoxin Li**, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Donghua Tang, Yongyin Cao, Fangkui Sun, Rui Feng, Weiqiang Ding
+Yanxia Zhang, Bojian Shi, [Xiaoxin Li]{.xiaoxin-author}, Yanyu Gao, Wenya Gao, Qi Jia, Fangkui Sun, Yongyin Cao, Rui Feng, Weiqiang Ding
 
-*[Advanced Optical Materials]{.journal-name}* **13**, 2403405 (2025)
+*[Optics Express]{.journal-name}* **33**(15), 31567–31576 (2025)
 
-[First author]{.pub-role}
+:::
 
-[DOI: 10.1002/adom.202403405](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202403405){target="_blank" .paper-doi}
+
+::: {.publication-item .publication-full}
+
+### [Tuning of Optical Force on Rayleigh Particles by Charges](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4542){target="_blank"}
+
+Tongtong Zhu, Bojian Shi, Yanyu Gao, [Xiaoxin Li]{.xiaoxin-author}, Yanxia Zhang, Wenya Gao, Qi Jia, Rui Feng, Fangkui Sun, Yongyin Cao, Weiqiang Ding
+
+*[Optics Letters]{.journal-name}* **50**(14), 4542–4545 (2025)
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Large Optical Lateral Force with a Phase-Engineered Photonic Spin Hall Effect](https://pubs.acs.org/doi/10.1021/acsphotonics.4c01468){target="_blank"}
+
+Hang Li, Qi Jia, Bojian Shi, Yuan Zhou, Yongyin Cao, Kunpeng Luan, Dahui Wang, Tongtong Zhu, Yuzhi Shi, Donghua Tang, Yanxia Zhang, [Xiaoxin Li]{.xiaoxin-author}, Rui Feng, Fangkui Sun, Baoli Yao, Pengling Yang, Cheng-Wei Qiu, Weiqiang Ding
+
+*[ACS Photonics]{.journal-name}* **12**(7), 3337–3343 (2025)
 
 :::
 
@@ -89,13 +118,20 @@ Bojian Shi, Qi Jia, **Xiaoxin Li**, Yanxia Zhang, Hang Li, Yanyu Gao, Wenya Gao,
 
 ### [Polarization-Independent, High-NA Edge Detection with Nonlocal Metasurfaces](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-11-3517){target="_blank"}
 
-Yalong Liu, **Xiaoxin Li**, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Fangkui Sun, Yongyin Cao, Rui Feng, Weiqiang Ding
+Yalong Liu, [Xiaoxin Li]{.xiaoxin-author}<sup class="author-mark">*</sup>, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Fangkui Sun, Yongyin Cao, Rui Feng, Weiqiang Ding
 
 *[Optics Letters]{.journal-name}* **50**(11), 3517–3520 (2025)
 
-[Co-first author]{.pub-role}
+:::
 
-[DOI: 10.1364/OL.562895](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-11-3517){target="_blank" .paper-doi}
+
+::: {.publication-item .publication-full}
+
+### [Efficient Coupling of Topological Photonic Crystal Waveguides Based on Transverse Spin Matching Mechanism](https://www.nature.com/articles/s41467-025-59941-6){target="_blank"}
+
+Bojian Shi, Qi Jia, [Xiaoxin Li]{.xiaoxin-author}<sup class="author-mark">*</sup>, Yanxia Zhang, Hang Li, Yanyu Gao, Wenya Gao, Xiaoyu Li, Donghua Tang, Tongtong Zhu, Shan Gao, Jing Yang, Rui Feng, Fangkui Sun, Chunying Guan, Yongyin Cao, Cheng-Wei Qiu, Weiqiang Ding
+
+*[Nature Communications]{.journal-name}* **16**, 4645 (2025)
 
 :::
 
@@ -104,13 +140,53 @@ Yalong Liu, **Xiaoxin Li**, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya G
 
 ### [Bilayer Metasurface-Enabled High-Sensitivity Near-Infrared Computational Spectrometer](https://www.sciencedirect.com/science/article/pii/S0030401825005796){target="_blank"}
 
-Juntong Chen, **Xiaoxin Li**, Bojian Shi, Qi Jia, Yanxia Zhang, Wenya Gao, Yanyu Gao, Wentong Shi, Yongyin Cao, Hongyan Shi, Fangkui Sun, Rui Feng, Weiqiang Ding
+Juntong Chen, [Xiaoxin Li]{.xiaoxin-author}<sup class="author-mark">*</sup>, Bojian Shi, Qi Jia, Yanxia Zhang, Wenya Gao, Yanyu Gao, Wentong Shi, Yongyin Cao, Hongyan Shi, Fangkui Sun, Rui Feng, Weiqiang Ding
 
 *[Optics Communications]{.journal-name}* **591**, 132051 (2025)
 
-[Co-first author]{.pub-role}
+:::
 
-[DOI: 10.1016/j.optcom.2025.132051](https://www.sciencedirect.com/science/article/pii/S0030401825005796){target="_blank" .paper-doi}
+
+::: {.publication-item .publication-full}
+
+### [Diffractive Metasurface-Enabled Single-Shot Characterization of Hybrid-Order Poincaré Beams](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202403405){target="_blank"}
+
+[Xiaoxin Li]{.xiaoxin-author}, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Donghua Tang, Yongyin Cao, Fangkui Sun, Rui Feng, Weiqiang Ding
+
+*[Advanced Optical Materials]{.journal-name}* **13**, 2403405 (2025)
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Optical Longitudinal-Lateral Force Directed in Arbitrary Directions by a Linearly Polarized Beam](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400330){target="_blank"}
+
+Hang Li, Tongtong Zhu, Yongyin Cao, Qi Jia, Bojian Shi, Yanxia Zhang, Donghua Tang, [Xiaoxin Li]{.xiaoxin-author}, Rui Feng, Fangkui Sun, Cheng-Wei Qiu, Weiqiang Ding
+
+*[Laser & Photonics Reviews]{.journal-name}* **19**(1), 2400330 (2025)
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Research Progress in Optical Lateral Force and Optical Pulling Force (Invited)](https://doi.org/10.3788/LOP250996){target="_blank"}
+
+Bojian Shi, Wenya Gao, Yanyu Gao, Jiamu Li, Yanxia Zhang, [Xiaoxin Li]{.xiaoxin-author}, Qi Jia, Rui Feng, Yongyin Cao, Fangkui Sun, Weiqiang Ding
+
+*[Laser & Optoelectronics Progress]{.journal-name}* **62**(15), 1500001 (2025)
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Progress of Optical Neural Networks (Invited)](https://doi.org/10.3788/AOS251162){target="_blank"}
+
+Bojie Dong, Xiaoyu Li, Yichi Zhang, Bohao Zhang, Zixuan Wang, Wenya Gao, Yanyu Gao, Qi Jia, [Xiaoxin Li]{.xiaoxin-author}, Bojian Shi, Yanxia Zhang, Rui Feng, Yongyin Cao, Fangkui Sun, Weiqiang Ding
+
+*[Acta Optica Sinica]{.journal-name}* **45**(17), 1720012 (2025)
 
 :::
 
@@ -120,15 +196,116 @@ Juntong Chen, **Xiaoxin Li**, Bojian Shi, Qi Jia, Yanxia Zhang, Wenya Gao, Yanyu
 
 ::: {.publication-item .publication-full}
 
+### [Partially Coherent Diffractive Optical Neural Network](https://opg.optica.org/optica/abstract.cfm?uri=optica-11-12-1742){target="_blank"}
+
+Qi Jia, Bojian Shi, Yanxia Zhang, Hang Li, [Xiaoxin Li]{.xiaoxin-author}, Rui Feng, Fangkui Sun, Yongyin Cao, Jian Wang, Cheng-Wei Qiu, Min Gu, Weiqiang Ding
+
+*[Optica]{.journal-name}* **11**(12), 1742–1749 (2024)
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Topological Slow Light Enabled Huge Optical Force Enhancement](https://pubs.acs.org/doi/10.1021/acsphotonics.4c01367){target="_blank"}
+
+Bojian Shi, Shujing Xing, Yanxia Zhang, Yanyu Gao, Wenya Gao, [Xiaoxin Li]{.xiaoxin-author}, Hang Li, Qi Jia, Rui Feng, Donghua Tang, Tongtong Zhu, Fangkui Sun, Yongyin Cao, Weiqiang Ding
+
+*[ACS Photonics]{.journal-name}* **11**(10), 4414–4421 (2024)
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Ultra-Compact Reflective Waveguide Mode Converter Based on Slanted-Surface and Subwavelength Metamaterials](https://www.mdpi.com/2304-6732/11/9/838){target="_blank"}
+
+Yanxia Zhang, Rui Feng, Bojian Shi, [Xiaoxin Li]{.xiaoxin-author}, Yanyu Gao, Wenya Gao, Qi Jia, Fangkui Sun, Yongyin Cao, Weiqiang Ding
+
+*[Photonics]{.journal-name}* **11**(9), 838 (2024)
+
+:::
+
+
+::: {.publication-item .publication-full}
+
 ### [Simultaneous Sorting of Arbitrary Vector Structured Beams with Spin-Multiplexed Diffractive Metasurfaces](https://doi.org/10.1117/1.APN.3.3.036010){target="_blank"}
 
-**Xiaoxin Li**, Rui Feng, Fangkui Sun, Yanxia Zhang, Qi Jia, Donghua Tang, Bojian Shi, Hang Li, Yanyu Gao, Wenya Gao, Yongyin Cao, Weiqiang Ding
+[Xiaoxin Li]{.xiaoxin-author}, Rui Feng, Fangkui Sun, Yanxia Zhang, Qi Jia, Donghua Tang, Bojian Shi, Hang Li, Yanyu Gao, Wenya Gao, Yongyin Cao, Weiqiang Ding
 
 *[Advanced Photonics Nexus]{.journal-name}* **3**(3), 036010 (2024)
 
-[First author]{.pub-role}
+:::
 
-[DOI: 10.1117/1.APN.3.3.036010](https://doi.org/10.1117/1.APN.3.3.036010){target="_blank" .paper-doi}
+
+::: {.publication-item .publication-full}
+
+### [Ultra-Compact Mode Converter Based on Longitudinal Refractive Index Modulation](https://www.sciencedirect.com/science/article/abs/pii/S0030401823009458){target="_blank"}
+
+Yanxia Zhang, Rui Feng, Bojian Shi, Qi Jia, Hang Li, [Xiaoxin Li]{.xiaoxin-author}, Fangkui Sun, Yongyin Cao, Weiqiang Ding
+
+*[Optics Communications]{.journal-name}* **554**, 130197 (2024)
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Homochiral Nanopropeller via Chiral Active Surface Growth](https://pubs.acs.org/doi/10.1021/jacs.3c09652){target="_blank"}
+
+Yonglong Zheng, Xinyu Li, Liping Huang, [Xiaoxin Li]{.xiaoxin-author}, Shenghao Yang, Qian Wang, Jiaxin Du, Yawen Wang, Weiqiang Ding, Bo Gao, Hongyu Chen
+
+*[Journal of the American Chemical Society]{.journal-name}* **146**(1), 410–418 (2024)
+
+:::
+
+
+## 2023 {.publication-year}
+
+
+::: {.publication-item .publication-full}
+
+### [Stable Acoustic Pulling in Two-Dimensional Phononic Crystal Waveguides Based on Mode Manipulation](https://www.mdpi.com/2304-6732/10/12/1325){target="_blank"}
+
+Yanyu Gao, Yongyin Cao, Tongtong Zhu, Donghua Tang, Bojian Shi, Hang Li, Wenya Gao, Yanxia Zhang, Qi Jia, [Xiaoxin Li]{.xiaoxin-author}, Rui Feng, Fangkui Sun, Weiqiang Ding
+
+*[Photonics]{.journal-name}* **10**(12), 1325 (2023)
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Vector Vortex Beams Sorting of 120 Modes in Visible Spectrum](https://doi.org/10.1515/nanoph-2023-0482){target="_blank"}
+
+Qi Jia, Yanxia Zhang, Bojian Shi, Hang Li, [Xiaoxin Li]{.xiaoxin-author}, Rui Feng, Fangkui Sun, Yongyin Cao, Jian Wang, Cheng-Wei Qiu, Weiqiang Ding
+
+*[Nanophotonics]{.journal-name}* **12**(20), 3955–3962 (2023)
+
+:::
+
+
+## 2022 {.publication-year}
+
+
+::: {.publication-item .publication-full}
+
+### [Universal Translation Operator for Laguerre–Gaussian Mode Sorting](https://doi.org/10.1063/5.0123103){target="_blank"}
+
+Qi Jia, Rui Feng, Bojian Shi, Yanxia Zhang, Hang Li, [Xiaoxin Li]{.xiaoxin-author}, Fangkui Sun, Yongyin Cao, Hongyan Shi, Jian Wang, Weiqiang Ding
+
+*[Applied Physics Letters]{.journal-name}* **121**(19), 191104 (2022)
+
+:::
+
+
+::: {.publication-item .publication-full}
+
+### [Compensating the Distorted OAM Beams with Near Zero Time Delay](https://doi.org/10.1063/5.0096303){target="_blank"}
+
+Qi Jia, Rui Feng, Bojian Shi, Fangkui Sun, Yanxia Zhang, Hang Li, [Xiaoxin Li]{.xiaoxin-author}, Yongyin Cao, Jian Wang, Weiqiang Ding
+
+*[Applied Physics Letters]{.journal-name}* **121**(1), 011104 (2022)
 
 :::
 

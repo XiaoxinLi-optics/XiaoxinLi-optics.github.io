@@ -1417,3 +1417,41 @@ header#title-block-header {
   }
 
 }
+/* =========================================================
+   Highlight Xiaoxin Li in publication lists
+   ========================================================= */
+
+.xiaoxin-author {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.author-mark {
+  color: var(--accent);
+  font-size: 0.72em;
+  font-weight: 750;
+  margin-left: 1px;
+  vertical-align: super;
+  line-height: 0;
+}
+
+
+/* Slightly improve author-list readability */
+
+.publication-full > p:first-of-type {
+  color: #555;
+  font-size: 0.91rem;
+  line-height: 1.68;
+  margin-bottom: 0.42rem;
+}
+
+
+/* Make highlighted author stand out without being too strong */
+
+.publication-full .xiaoxin-author {
+  transition: color 0.15s ease;
+}
+
+.publication-full:hover .xiaoxin-author {
+  color: var(--accent-dark);
+}
